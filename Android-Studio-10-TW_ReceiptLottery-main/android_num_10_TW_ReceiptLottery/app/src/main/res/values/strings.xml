@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">android_num_10_TW_ReceiptLottery</string>
+    <string name="Hw10_title">2018 統一發票兌獎</string>
+    <string name="Hw10_1to2">2018 1,2月發票</string>
+    <string name="Hw10_3to4">2018 3,4月發票</string>
+    <string name="Hw10_5to6">2018 5,6月發票</string>
+    <string name="Hw10_7to8">2018 7,8月發票</string>
+    <string name="Hw10_9to10">2018 9,10月發票</string>
+    <string name="Hw10_11to12">2018 11,12月發票</string>
+    <string name="Hw10_AtoB">開始對獎</string>
+    <string name="Hw10_BtoC">中獎結果</string>
+    <string name="Hw10_BandCtoA">重新選擇月份</string>
+    <string name="Hw10_CtoB">重新輸入號碼</string>
+    <string name="Hw10_winner">中獎號碼</string>
+    <string name="Hw10_input">輸入號碼:</string>
+    <string name="Hw10_cash">中獎金額:</string>
+</resources>
